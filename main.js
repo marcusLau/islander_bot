@@ -8,4 +8,4 @@ client.events = new Discord.Collection();
     require(`./handlers/${handler}`)(client, Discord);
 })
 
-client.login('ODIyMDM5MzMzMjgwMTUzNjEw.YFMdyQ.VTgnTwquMAjRdiU2iLDHKDx4s9Y'); // bot token, need to hide this
+client.login('ODIyMDM5MzMzMjgwMTUzNjEw.YFMdyQ.GFjLdLPraW7vSEu3bSofcW2nAns'); // bot token, need to hide this
